@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### How to run locally
+1. setup env https://jekyllrb.com/docs/installation/
+2. clone repo https://github.com/Talentech/Blog 
+    - standarg login/pass doesn't work with git push on github with two factor authentication, use personal access token https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
+3. run by command: 
+    bundle exec jekyll serve --livereload
+
