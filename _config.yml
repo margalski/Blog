@@ -28,7 +28,7 @@ twitter_username: swiczk
 github_username:  Talentech
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
