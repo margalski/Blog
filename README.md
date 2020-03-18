@@ -43,3 +43,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 3. run by command: 
     bundle exec jekyll serve --livereload
 
+HTML 
+https://shopify.github.io/liquid/
