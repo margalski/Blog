@@ -9,4 +9,5 @@ Welcome to Talentech’s official technology blog. Here you can find out a littl
 You can find our sources code at GitHub:
 [github.com/Talentech](https://github.com/Talentech/)
 
+Check our products:
 [talentech.com](http://talentech.com/)
