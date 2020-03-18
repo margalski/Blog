@@ -27,7 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: swiczk
 github_username:  Talentech
 
-# Build settings
+author: Talentech Dev Team
+
+copyright: "Talentech"
+
+  # Build settings
 # remove for regular (custom) theme
 # theme: minima
 plugins:
