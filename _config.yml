@@ -30,12 +30,13 @@ facebook_username: Talentechpl
 instagram_username: talentechpl
 # twitter_username: swiczk
 
-
 author: Talentech Dev Team
 
 copyright: "Talentech"
 
-  # Build settings
+title-logo: /images/logo.png
+
+# Build settings
 # remove for regular (custom) theme
 # theme: minima
 plugins:
