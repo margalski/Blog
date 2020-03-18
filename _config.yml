@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Talentech’s official technology blog. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 linkedin_company: talentech-norway
 github_username:  Talentech
 facebook_username: Talentechpl
@@ -61,3 +62,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+show_excerpts: true
