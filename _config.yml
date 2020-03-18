@@ -28,7 +28,8 @@ twitter_username: swiczk
 github_username:  Talentech
 
 # Build settings
-theme: minima
+# remove for regular (custom) theme
+# theme: minima
 plugins:
   - jekyll-feed
 
