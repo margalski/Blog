@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Talentech Tech Blog
-email: szymon.wiczkowski@talentech.com
+# email: szymon.wiczkowski@talentech.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Talentech’s official technology blog. 
 baseurl: "" # the subpath of your site, e.g. /blog
